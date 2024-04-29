@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;chap04_controlstatement._01_controlstatement&apos; to &apos;_01_ifStatement&apos;&#x0D;&#x0A;- Original project: &apos;JavaProgramming&apos;&#x0D;&#x0A;- Original element: &apos;chap04_controlstatement._01_controlstatement&apos;&#x0D;&#x0A;- Renamed element: &apos;chap04_controlstatement._01_ifStatement&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;_01_controlstatement&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;chap04_controlstatement{_01_controlstatement.java[_01_controlstatement" matchStrategy="1" name="_01_ifStatement" qualified="false" references="true" similarDeclarations="false" stamp="1714115716253" textual="false" version="1.0"/>
+</session>
